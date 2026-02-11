@@ -90,3 +90,7 @@ This screenshot demonstrates a successful GitHub Actions pipeline run, confirmin
 This screenshot shows a successful Azure Pipeline execution, confirming Continuous Delivery and deployment of the application to Azure services.
  
 ![Azure Pipeline Build Success](./screenshots/AzurePipeline_build.png)
+
+### Project Screencast
+ 
+Watch the full demo here: [CI/CD Pipeline Demo](https://youtu.be/-ISpr9sDzOg)
