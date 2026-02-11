@@ -36,6 +36,7 @@ Ensure the following tools are installed on your system:
 ```bash
 git clone https://github.com/<your-username>/<your-repository-name>.git
 cd <your-repository-name>
+```
 
 ### Step 2: Create and Activate a Virtual Environment
 
@@ -45,7 +46,7 @@ Create a Python virtual environment to isolate project dependencies.
 python -m venv venv
 source venv/bin/activate   # Linux / Mac
 venv\Scripts\activate      # Windows
-
+```
 
 ### Step 3: Install Dependencies
 
@@ -53,19 +54,21 @@ Install all required Python packages needed to run the application.
  
 ```bash
 make install
-
+```
 
 ### Step 4: Run Lint Checks
 Run linting to analyze the Python code for style issues and best practices.
  
 ```bash
 make lint
+```
 
 ### Step 5: Run Unit Tests
 Run automated unit tests to ensure the application functions correctly.
  
 ```bash
 make test
+```
 
 ## Screenshots Demonstrating Key Steps
  
