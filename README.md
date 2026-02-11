@@ -10,7 +10,7 @@ The repository contains a Python-based machine learning application built with F
  
 The following diagram illustrates the overall architecture and workflow of the project, including source control, CI/CD pipelines, and deployment to Azure App Service.
  
-![Architecture Diagram](./screenshots/Architecture.png)
+![Architecture Diagram](./Screenshots/Architecture.png)
  
 **Architecture Flow:**
 - Source code is managed in GitHub
