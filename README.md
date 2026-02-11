@@ -38,6 +38,7 @@ git clone https://github.com/<your-username>/<your-repository-name>.git
 cd <your-repository-name>
 
 ### Step 2: Create and Activate a Virtual Environment
+
 Create a Python virtual environment to isolate project dependencies.
  
 ```bash
@@ -47,6 +48,7 @@ venv\Scripts\activate      # Windows
 
 
 ### Step 3: Install Dependencies
+
 Install all required Python packages needed to run the application.
  
 ```bash
