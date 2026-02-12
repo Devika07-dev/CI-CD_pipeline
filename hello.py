@@ -32,9 +32,8 @@ def predict():
         clf = joblib.load("./Housing_price_model/LinearRegression.joblib")
         # clf = joblib.load("./Housing_price_model/StochasticGradientDescent.joblib")
         # clf = joblib.load("./Housing_price_model/GradientBoostingRegressor.joblib")
-    except Exception as e:
+    except:  # pylint: disable=bare-except
         LOG.info("JSON payload: %s json_payload")
-        LOG.error("Model not Loaded",e)
         return "Model not loaded"
 
     json_payload = request.json
