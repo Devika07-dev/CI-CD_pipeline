@@ -98,7 +98,7 @@ This screenshot shows a successful Azure Pipeline execution, confirming Continuo
 The project workflow and key tasks are tracked using a Trello board with a simple agile flow: **To Do**, **In Progress**, **Done**.  
 - Key Task Cards include: Repository Setup, Python Application, Makefile, Lint & Tests, GitHub Actions CI, Azure Pipeline CD, Deployment, README, and Screencast.  
  
-View the Trello board here: [CI/CD Pipeline Project Board](https://trello.com/b/KmavP4kw/my-trello-board)
+View the Trello board here: [CI/CD Pipeline Project Board]([https://trello.com/b/KmavP4kw/my-trello-board](https://trello.com/invite/b/698d0e8e45f68ef987de118f/ATTI73e5ed1d01ed75d82530e4bb762a0c5d0E0B786C/my-trello-board))
 
 ### Spreadsheet / Project Plan
  
