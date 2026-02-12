@@ -105,8 +105,9 @@ View the Trello board here: [CI/CD Pipeline Project Board](https://trello.com/in
 A project plan spreadsheet is included to show planning and tracking of milestones, deliverables, and task estimations.
  
 **Contents of the Spreadsheet:**
-- Weekly Plan: Key milestones and goals
-- Weekly Deliverables: Week-by-week estimates
+- A quarterly and yearly plan
+- Estimates of the week by week deliverables
+- Estimation of difficulty or time (or both) for each task
 - Task Estimation: Difficulty or time estimation for each task
  
 You can access the spreadsheet here: [Project Plan Spreadsheet](./project-plan.xlsx)
