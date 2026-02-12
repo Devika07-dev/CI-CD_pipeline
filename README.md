@@ -114,9 +114,12 @@ The Successful Creation of Azure webapp Azure Cloud Shell.
 
 ![Creation of Webapp in Cloud shell](./Screenshots/Azurewebappcreationsucceesful.png)
 
-Screenshot of Project deployed in Azure
+---
+## Screenshot of Project deployed in Azure
 
 ![Project deployed in Azure](./Screenshots/ProjectDeployedintoAzure.png)
+
+---
 
 ## Project Management
  
