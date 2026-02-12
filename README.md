@@ -99,8 +99,6 @@ This screenshot shows a successful Azure Pipeline execution, confirming Continuo
  
 The CI/CD pipeline successfully builds and deploys the application.
  
-**Screenshot Location:**  
- 
 ![Creating Azure Web App](./Screenshots/CreatingAzurewebapp.png)
  
 This screenshot shows:
