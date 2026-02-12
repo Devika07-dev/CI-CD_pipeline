@@ -1,5 +1,9 @@
 # Building a CI/CD Pipeline with Azure
+
+![CI](https://github.com/Devika07-dev/CI-CD_pipeline/actions/workflows/main.yml/badge.svg)
  
+This project demonstrates a full CI/CD pipeline using GitHub Actions and Azure.
+
 ## Project Overview
 In this project, a complete CI/CD pipeline is built using GitHub and Microsoft Azure.  
 The project demonstrates core DevOps principles by implementing Continuous Integration (CI) using GitHub Actions and Continuous Delivery (CD) using Azure Pipelines and Azure App Service.
