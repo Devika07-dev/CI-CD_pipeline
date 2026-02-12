@@ -115,3 +115,13 @@ You can access the spreadsheet here: [Project Plan Spreadsheet](./project-plan.x
 ### Project Screencast
  
 Watch the full demo here: [CI/CD Pipeline Demo](https://youtu.be/-ISpr9sDzOg)
+
+## Future Improvements
+ 
+While the current CI/CD pipeline and application are functional, there are several areas for future enhancement:
+ 
+1. **Automated Testing Expansion:** Add more comprehensive unit and integration tests to cover edge cases and ensure higher test coverage.
+2. **Containerization:** Package the application using Docker for more consistent deployments across different environments.
+3. **Advanced CI/CD Features:** Implement automated rollback, notifications on pipeline failure, and multi-environment deployments (staging, production).
+4. **Machine Learning Enhancements:** Integrate additional preprocessing, model versioning, and logging for improved ML predictions.
+5. **Improved Documentation:** Include detailed setup scripts, troubleshooting steps, and code comments for easier onboarding of future contributors.
