@@ -95,7 +95,9 @@ This screenshot shows a successful Azure Pipeline execution, confirming Continuo
  
 ![Azure Pipeline Build Success](./Screenshots/AzurePipeline_build.png)
 
-## Azure Pipeline – Successful Run
+---
+
+## 4.Azure Pipeline – Successful Run
  
 The CI/CD pipeline successfully builds and deploys the application.
  
@@ -108,14 +110,14 @@ This screenshot shows:
  
 ---
  
-##  Successful Creation of Azure Webapp
+## 5.Successful Creation of Azure Webapp
  
 The Successful Creation of Azure webapp Azure Cloud Shell.
 
-![Creation of Webapp in Cloud shell](./Screenshots/Azurewebappcreationsucceesful.png)
+![Creation of Webapp in Cloud shell](./Screenshots/Azurewebappcreationsucceeful.png)
 
 ---
-## Screenshot of Project deployed in Azure
+## 6.Screenshot of Project deployed in Azure
 
 ![Project deployed in Azure](./Screenshots/ProjectDeployedintoAzure.png)
 
